@@ -1,6 +1,9 @@
-const Home:React.FC = ()=>{
+const Home: React.FC = () => {
     return (
-        <h1>Привет Next.js!</h1>
+        <div>
+            <h1>Привет Next.js!</h1>
+            <p>Изменения в приложении</p>
+        </div>
     )
 }
 
